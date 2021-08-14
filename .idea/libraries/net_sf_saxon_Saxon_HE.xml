@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="net.sf.saxon.Saxon.HE" type="repository">
+    <properties maven-id="net.sf.saxon:Saxon-HE:10.5" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/sf/saxon/Saxon-HE/10.5/Saxon-HE-10.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

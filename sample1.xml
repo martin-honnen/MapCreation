@@ -1,0 +1,31 @@
+<stats timestamp="1628874073" date="08/13/2021 12:01:13">
+    <common>
+        <EV_AVERAGE_HOME>0.006669</EV_AVERAGE_HOME>
+        <EV_AVERAGE_AWAY>0.00193</EV_AVERAGE_AWAY>
+        <EV_AVERAGE_DRAW>0.007402678</EV_AVERAGE_DRAW>
+    </common>
+    <games>
+        <id348812>
+            <gameid gsid="3509729">348812</gameid>
+            <league>BUND</league>
+            <team1RotationNumber>150540</team1RotationNumber>
+            <team1Name>Bayern Munchen</team1Name>
+            <team1_win_perc>62.1</team1_win_perc>
+            <team2RotationNumber>150541</team2RotationNumber>
+            <team2Name>Arsenal</team2Name>
+            <team2_win_perc>17.8</team2_win_perc>
+            <draw_perc>20.1</draw_perc>
+        </id348812>
+        <id348813>
+            <gameid gsid="3509730">348813</gameid>
+            <league>EPL</league>
+            <team1RotationNumber>150543</team1RotationNumber>
+            <team1Name>Tottenham</team1Name>
+            <team1_win_perc>50</team1_win_perc>
+            <team2RotationNumber>150544</team2RotationNumber>
+            <team2Name>Chelsea</team2Name>
+            <team2_win_perc>25</team2_win_perc>
+            <draw_perc>25</draw_perc>
+        </id348813>
+    </games>
+</stats>
